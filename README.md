@@ -8,3 +8,5 @@ Contributions are welcome! To contribute:
 4. Submit a Pull Request with a description of your changes.
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12498/badge)](https://www.bestpractices.dev/projects/12498)
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/vfonseca17/pythonProject/badge)](https://scorecard.dev/viewer/?uri=github.com/vfonseca17/pythonProject)
